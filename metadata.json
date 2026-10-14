@@ -1,0 +1,6 @@
+{
+  "name": "Escucha y responde — Fútbol Español & Հայերեն",
+  "description": "50 живых разговорных вопросов с ответами на испанском и армянском на тему футбола (A2, 7 класс). Интерактивное обучение, карточки, озвучка и экспресс-тренажер 5 секунд.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
